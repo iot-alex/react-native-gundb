@@ -1,6 +1,10 @@
 # react-native-gundb
 react-native version of http://gun.js.org/
-[gundb readme](./README-orig.md)
+---------------------
+
+
+# REF
+[gundb](./README-orig.md) : Original README
 
 
 * VERY early release be WARNED
